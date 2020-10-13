@@ -1,0 +1,2 @@
+# weather_in_gallery
+Paintings and other works of art are both precious and fragile requiring careful consideration of a number of parameters when stored and displayed. Certain paints and canvases are highly sensitive to the surrounding temperature and humidity and exposure to unsuitable conditions may lead to the deterioration of an art piece and substantial loss in value. Museums and large galleries are commonly equipped with the air conditioning systems that automatically monitor, anticipate, and adjust the microclimate within their premises.
